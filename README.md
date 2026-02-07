@@ -1,1 +1,8 @@
 This repository provides an analytical–numerical framework based on Hardy–Ramanujan partition asymptotics and mock theta corrections to bound logical error rates in SiC defect-based quantum architectures at room temperature.
+
+/src
+ ├── mc_core.cpp        # High-performance Monte Carlo (C++)
+ ├── mc_core.pyx        # Cython interface
+ ├── setup.py           # Build script
+ └── run_simulation.py  # Python driver + mock theta correction
+
