@@ -25,6 +25,7 @@ The framework is designed to bridge **combinatorial number theory** and **scalab
  ├── mc_core.pyx        # Cython interface to C++ core
  ├── setup.py           # Build script for C++/Python integration
  └── run_simulation.py  # Python driver with mock theta corrections
+---
 
 ## Run Python alone without any Interface
-
+               **ramanujan_SiC.py**
